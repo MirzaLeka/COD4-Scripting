@@ -2,8 +2,9 @@
 
 ### Usage
 
+* Install Node.js on your machine
 * Run application with ```npm start```
-* Go to ```localhost:4000/SERVER-IP-ADDRESS```and paste ip address
+* Go to ```localhost:4000/{paste a valid ip address here}```
 * Server returns results (see sample.json)
 
 #
