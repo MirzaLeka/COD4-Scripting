@@ -2,7 +2,7 @@
 
 These cheats work only in dev maps and single player
 
-Open a console (~) and type ```/{cheat}
+Open a console (~) and type ```/{cheat}```
 
 * No clip ```/noclip```
 * Invincibility ```/god```
