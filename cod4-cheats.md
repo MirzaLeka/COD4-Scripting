@@ -8,7 +8,7 @@ Open a console (~) and type ```/{cheat}```
 * Invincibility ```/god```
 * Enemies ignore you ```/notarget```
 
-I'm to lazy to type the rest
+I'm too lazy to type the rest
 
 https://www.liveabout.com/cod-4-cheats-pc-3401820
 
