@@ -1,0 +1,67 @@
+{
+  "host": "server ip",
+  "port": "sever port",
+  "data": {
+    "name": "Server name",
+    "map": "current map been played",
+    "password": false,
+    "raw": {
+      "fs_game": "mods/up-pml221",
+      "sv_maxclients": "18",
+      "version": "CoD4 X - linux-i386...",
+      "shortversion": "-",
+      "build": "1137",
+      "branch": "supressWarnings",
+      "revision": "random hashed id",
+      "_CoD4 X Site": "http://cod4x.me",
+      "protocol": "20",
+      "sv_privateClients": "0",
+      "sv_hostname": "Server name",
+      "sv_minPing": "0",
+      "sv_maxPing": "600",
+      "sv_disableClientConsole": "0",
+      "sv_voice": "0",
+      "g_mapStartTime": "Tue Apr 12 13:29:04 2022",
+      "uptime": "5 days",
+      "g_gametype": "sd",
+      "mapname": "current map been played",
+      "sv_maxRate": "25000",
+      "sv_floodprotect": "4",
+      "sv_pure": "0",
+      "Admin": "admins",
+      "Discord": "server discord",
+      "Location": "FR",
+      "Url": "server website",
+      "website": "server website",
+      "gamename": "Call of Duty 4",
+      "g_compassShowEnemies": "0"
+    },
+    "maxplayers": "18",
+    "players": [
+      {
+        "name": "Player A",
+        "raw": {
+          "frags": 0,
+          "ping": 39
+        }
+      },
+      {
+        "name": "Player B",
+        "raw": {
+          "frags": 15,
+          "ping": 26
+        }
+      },
+      {
+        "name": "Player C",
+        "raw": {
+          "frags": 38,
+          "ping": 36
+        }
+      }
+    ],
+    "bots": [],
+    "connect": "server ip",
+    "ping": 46
+  }
+}
