@@ -1,4 +1,4 @@
-# COD4 Cheats
+# COD4 Development Mode & Single Player Cheats
 
 These cheats work only in dev maps and single player
 
