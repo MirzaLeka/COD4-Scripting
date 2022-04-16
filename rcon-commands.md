@@ -68,3 +68,4 @@
 * [GamesClan](https://www.gamesclan.net/billing/index.php/knowledgebase/33/Call-of-Duty-4-Rcon-Commands.html)
 * [Wiki4NetPlayers](https://wiki.4netplayers.com/en/RCON_Commands_CoD_4)
 * [FSHost](https://fshost.me/help/rcon/cod4)
+* [COD1Mania](https://www.cod1mania.com/the-most-important-rcon-commands/)
