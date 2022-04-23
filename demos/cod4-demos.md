@@ -54,7 +54,13 @@ Some servers run on COD4X version which isn't supported by CODMVM
 3. Switch back to game
 4. CODMVM layout should be showing in the demo
 
-## Exit
+### Leave Playback
 
 * To exit the demo, open console and type ```/disconnect```.
 * You can also quit game by typing ```/quit``` in the console or pressing backlash key anytime during the demo (/)
+
+## Sources
+
+* [COD4 Server](https://www.cod4-server.com/index.php/Thread/6-How-to-Record-demos/)
+* [COD MVM](https://codmvm.com/about)
+* [COD4 Player](https://www.cybopat.net/vb_cod4player_eng.php)
