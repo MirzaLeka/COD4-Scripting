@@ -21,4 +21,5 @@ Open a console (~) and type ```/{cheat}```
   ![image](https://github.com/MirzaLeka/COD4-Scripting/assets/23176181/eeeafb58-259e-4f4b-a5dd-14796f1ab3b5)
 
 * The full list of missions should be displayed
+  ![image](https://github.com/MirzaLeka/COD4-Scripting/assets/23176181/e265dfe1-bf62-4708-8785-66bf8d8e6a01)
 * Click on any item on the list to start playing
