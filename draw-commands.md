@@ -1,4 +1,4 @@
-# Draw Stuff on Screen
+# Draw Stuff on the Screen
 
 ### Rules
 
@@ -10,3 +10,4 @@
 * Draw Crosshair: ```/cg_drawCrosshair 1```
 * Draw FPS: ```/cg_drawFPS 1```
 * Drag Lagometer ```/cg_drawlagometer 1```
+* Toggle HUD ```/cg_draw2D 1```
