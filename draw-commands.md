@@ -1,6 +1,6 @@
 # Display elements on UI
 
-### Rules
+### Variants
 
 * 0 - turn off
 * 1 - turn on
