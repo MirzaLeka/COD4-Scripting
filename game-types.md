@@ -1,26 +1,34 @@
 # COD4 Game Types
 
-Open console and run:
+Open up a console (~) and enter:
 
-```/g_gametype {gametype}```
+```bash
+/g_gametype [gametype]
+```
 
-Example: ```/g_gametype sd```
+#### Example: 
+```bash
+/g_gametype sd
+```
+
+### Game Types:
+
+* **Free For All** `/g_gametype dm`
+
+* **Domination** `/g_gametype dom`
+
+* **Headquarters** `/g_gametype koth`
+
+* **Sabotage** `/g_gametype sab`
+
+* **Search and Destroy** `/g_gametype sd`
+
+* **Team Deathmatch** `/g_gametype tdm`
+
+**Remember** that you must restart the map after changing game mode for changes to take effect
 
 
-Game Types:
-
-* **Free For All** dm
-
-* **Domination** dom
-
-* **Headquarters** koth
-
-* **Sabotage** sab
-
-* **Search and Destroy** sd
-
-* **Team Deathmatch** tdm
-
-**Remember** that you must restart match after changing game mode for changes to take effect
-
-```/map_restart```
+#### Map Restart Command:
+```bash
+/map_restart
+```
