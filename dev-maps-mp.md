@@ -1,6 +1,6 @@
 # COD4 Dev Maps Multiplayer
 
-### To run
+### How to Execute:
 
 ```/devmap mp_mapName```
 
