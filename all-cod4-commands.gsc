@@ -1,4 +1,4 @@
-# All Console Commands
+// All COD4 Console Commands
 
 +activate
 toggleMenu
