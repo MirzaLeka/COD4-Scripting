@@ -10,12 +10,25 @@ Remove all text and type `cod4://<ip-address>`, e.g:
 ```bash
 cod4://116.203.137.128:28950
 ```
-
 And the browser will pop this dialogue:
 
 ![Alt text](image.png)
 
 If you choose the *Open Iw3mp* option, the game will multiplayer game will start and connect to the specific server.
+
+### Connect using DNS
+
+```bash
+/connect my-website.com:28951
+```
+*Note: You don't add www or http prefix when using website name.*
+
+
+### Connect & Add Favorite
+
+```bash
+/connect <server-ip>; addFavorite <server-ip>
+```
 
 ## Join the Server via CMD / Bat Script
 
