@@ -1,6 +1,6 @@
 # Binds in COD4
 
-COD4 Text binds are a quick and useful way to convey commonly commands at a touch of a button. 
+COD4 binds are a quick and useful way to convey common commands at a touch of a button. 
 I refer to **binds** as variables that hold the value user sets and then the value can be reused anytime during the match by using the bind.
 
 ### Simple Bind
