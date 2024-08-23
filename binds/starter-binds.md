@@ -1,6 +1,6 @@
 # Binds in COD4
 
-Text binds are 
+COD4 Text binds are a quick and useful way to convey commonly commands at a touch of a button. 
 I refer to **binds** as variables that hold the value user sets and then the value can be reused anytime during the match by using the bind.
 
 ### Simple Bind
@@ -66,6 +66,7 @@ at the beginning and the end of a match or a flawless moment. Hence, I use binds
 ```
 
 With this command I can terminate the ongoing recording just by pressing the bind.
+This demonstrates that binds can be used with other [GSC commands](https://github.com/MirzaLeka/COD4-Scripting/blob/main/all-cod4-commands.gsc) besides printing messages.
 
 ### More Useful Links on using Binds:
 
