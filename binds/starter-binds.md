@@ -46,10 +46,10 @@ Often you'll see players use colorful text when printing messages using binds. T
 * Green: `^2`
 * Yellow: `^3`
 * Blue: `^4`
-* Light Blue: `^5`
+* Dark Blue: `^5`
 * Purple: `^6`
 * White (Default): `^7`
-* Light Blue ("Team Chat" Color): `^8`
+* Cyan (Light Blue), "Team Chat" Color: `^8`
 * Grey: `^9`
 
 ## More examples of using Binds
