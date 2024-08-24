@@ -2,9 +2,11 @@
 Configuration, Rules and Restrictions.
 
 * [Original article - pingperfect](https://pingperfect.com/index.php/knowledgebase/618/Call-of-Duty-4-Modern-Warfare-CoD4--Server-Configuration.html)
-#
 
-It's easy to configure your Pingperfect Call of Duty 4 Modern Warfare (CoD4) Server. Just follow the steps below.
+**Note:** The following configuration is added before the server starts.
+To execute these commands while the server is running (in-game), you'll have to use (prefix commands with) [RCON](https://github.com/MirzaLeka/COD4-Scripting/blob/main/rcon-commands.md).
+
+#
 
 Open the 'Configuration Files' section from your control panel.
 Select the 'Text Editor' option next to 'main\server.cfg'
@@ -308,3 +310,4 @@ set sv_mapRotation "gametype koth map mp_backlot gametype koth map mp_bloc gamet
 ```gsc
 //set sv_mapRotation "gametype sab map mp_backlot gametype sab map mp_bloc gametype sab map mp_bog gametype sab map mp
 ```
+
