@@ -50,10 +50,31 @@ start iw3mp.exe +connect 116.203.137.128:28950
 
 After this your should see a game running on your server.
 
-#### Additionally you can toggle full screen when starting a game:
+#### Additional options when launching the game:
 
-* Run in full screen mode: `start iw3mp.exe +set r_fullscreen 1 +connect 116.203.137.128:28950`
-* Run in a window mode: `start iw3mp.exe +set r_fullscreen 0 +connect 116.203.137.128:28950`
+* Run in full-screen mode:
+
+```bash
+start iw3mp.exe +set r_fullscreen 1 +connect 116.203.137.128:28950
+```
+
+* Run in a window mode:
+
+```bash
+  start iw3mp.exe +set r_fullscreen 0 +connect 116.203.137.128:28950
+```
+
+* Launch the game by loading a devmap
+
+```bash
+start iw3mp.exe +devmap mp_crash
+```
+
+* Add Binds upon loading the game
+
+```bash
+start iw3mp.exe +bind 8 say Hello World
+```
 
 ### Using Bat script
 
