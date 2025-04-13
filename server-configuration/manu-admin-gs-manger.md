@@ -209,3 +209,15 @@ Just enable/disable plugins in `plugins/` and configure their `.ini` files.
 - `games_mp.log` not updating? Make sure `g_logSync` is set to `2`.
 - GSManager not reacting? Check paths, permissions, and ensure Python can read the log file.
 - Commands not working? Check your admin level in `admins.ini`.
+- 
+
+## Useful LInks
+
+### phanforeal - YouTube
+https://www.youtube.com/@phanforeal/videos
+
+### Manu Admin Mod v2 (cod4\waw\mw2\etc ) - Forum - CFGFactory
+https://cfgfactory.com/forum/thread/6262
+
+### Manu Admin Mod - Mods - MyGamingTalk
+https://mygamingtalk.com/files/file/27-manu-admin-mod/
